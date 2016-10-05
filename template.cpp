@@ -1,6 +1,9 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+typedef long long ll;
+typedef long long ld;
+
 #define endl "\n"
 #define DFLAG 0
 
@@ -13,7 +16,10 @@ using namespace std;
 #define ROF(i,x,y) for(int i = y; i >= x; i--)
 #define FORn(i,x,y,n) for(int i = x; i <= y; i+=n)
 
+#define mp make_pair
+
 int main() {
 	fastin;
+
 	return 0;
 }
